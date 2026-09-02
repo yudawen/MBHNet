@@ -1,6 +1,6 @@
 # MBHNet
 
-PyTorch implementation of the paper:
+Datasets of the paper:
 
 > **Spatial-Channel Selective State Space Models and Pruned Cross-Task Feature Transfer for Building Height Mapping from Aerial Images and DSMs**
 
